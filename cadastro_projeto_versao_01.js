@@ -1,3 +1,7 @@
+//Versao 01
+//Apenas acessa o banco e insere um objeto
+//Proximas versoes com melhorias
+
 var http = require('http');
 var mongoose = require('mongoose');
 

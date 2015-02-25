@@ -1,3 +1,7 @@
+//Versao 02
+//CRUD completo simples
+//Proximas versoes com melhorias (implementacao em camadas)
+
 var http = require('http');
 var mongoose = require('mongoose');
 
